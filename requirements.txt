@@ -1,0 +1,4 @@
+logfire
+pydantic_ai
+python-dotenv
+
